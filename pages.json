@@ -1,0 +1,24 @@
+{
+  "pages": [
+    {
+      "link": { "text": "Home", "url": "index.html" },
+      "pageTitle": "Home Page",
+      "content": "This is my Home Page"
+    },
+    {
+      "link": { "text": "Computer Science", "url": "cs.html" },
+      "pageTitle": "CS Page",
+      "content": "This is my CS Page"
+    },
+    {
+      "link": { "text": "Climbing", "url": "climbing.html" },
+      "pageTitle": "Climbing Page",
+      "content": "This is my Climbing Page"
+    },
+    {
+      "link": { "text": "Shopping List", "url": "cs.html" },
+      "pageTitle": "Shopping List",
+      "content": ""
+    }
+  ]
+}

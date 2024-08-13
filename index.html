@@ -1,13 +1,31 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
+    <script src="js/index.js">defineHeaderStatics()</script>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>My Vanilla JS Website</title>
-    <link rel="stylesheet" href="styles.css">
+    <title>l0renz.github.io</title>
+    <link rel="shortcut icon" href="favicon/favicon.ico">
+    <link rel="stylesheet" href="css/main.css">
+    <link rel="stylesheet" href="pico_css/pico.css">
 </head>
 <body>
-    <h1>Hello, World!</h1>
-    <script src="script.js"></script>
+  <main class="container">
+  <div class="real_center">
+    <img src="img/me.jpg" alt="" class="rounded">
+  </div>
+  <div class="container">
+    <h1 class="h1">Hello Stranger!</h1>
+    <p>My name is Lorenz and i am a software engineer from Austria, this page is supposed to contain things that interest me.<br> 
+    Feel free to look around!</p>
+    <div class="grid container">
+    <button onclick="goToPage()" type="outline">Recipees</button> 
+    <button type="outline">Blog</button> 
+    <button type="outline">Projects</button> 
+    </div>
+  </div>
+
+  </main>
+  <script src="js/index.js" async></script>
 </body>
 </html>

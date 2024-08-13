@@ -1,0 +1,19 @@
+.rounded {
+  border-radius: 50%;
+  margin: 2cm;
+  width: 10cm;
+}
+
+.real_center{
+  text-align: center;
+}
+
+
+/* TODO check how to apply to all tag */
+.h1{
+  color: var(--text-color);
+}
+
+:root {
+  --text-color: #0;
+}

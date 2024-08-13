@@ -1,0 +1,18 @@
+/* Custom grid styling */
+.grid-container {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+  gap: 10px; /* Space between items */
+}
+.grid-item {
+  background-color: #f0f0f01c;
+  height: 200px;
+  line-height: 200px;
+  text-align: center;
+}
+/* TODO is not applied */
+.ingredient-entry{
+  text-align: right;
+  padding-right: 1cm;
+}
+

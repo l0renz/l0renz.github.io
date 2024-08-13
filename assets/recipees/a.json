@@ -1,0 +1,372 @@
+{
+  "recipees": [
+    {
+      "title": "Spaghetti Carbonara",
+      "ingredients": [
+        ["Spaghetti", "500", "g"],
+        ["Eier", "3", ""],
+        ["Parmesan", "100", "g"],
+        ["Speckwürfel", "200", "g"],
+        ["Knoblauchzehen", "2", ""],
+        ["Frischer Pfeffer", "", ""]
+      ],
+      "instructions": [
+        "Nudelwasser leicht salzen und Nudeln kochen.",
+        "Speckwürfel in eine kalte Pfanne geben und mit den zerdrückten Knoblauchzehen anbraten.",
+        "Parmesan reiben und mit dem Ei verquirlen.",
+        "Etwas Nudelwasser beiseite stellen und Nudeln zum Speck geben.",
+        "Hitze reduzieren und die Käse-Ei-Mischung dazugeben und verrühren.",
+        "Evtl. noch Nudelwasser dazugeben und pfeffern."
+      ]
+    },
+    {
+      "title": "Spaghetti al Olio",
+      "ingredients": [
+        ["Spaghetti", "500", "g"],
+        ["Frische Petersilie", "200", "g"],
+        ["Zitronen", "1-2", ""],
+        ["Knoblauchzehen", "12", ""],
+        ["Olivenöl", "", ""],
+        ["Salz", "", ""],
+        ["Chili", "", ""]
+      ],
+      "instructions": [
+        "Nudelwasser salzen und Nudeln kochen.",
+        "Einen guten Schuss Olivenöl in eine große Pfanne geben.",
+        "Knoblauch in dünne Scheiben schneiden und mit Chili in der Pfanne andünsten.",
+        "Petersilie klein hacken und die Zitronen pressen.",
+        "Etwas Nudelwasser beiseite stellen und alles vermengen.",
+        "Evtl. noch Nudelwasser dazugeben."
+      ]
+    },
+    {
+      "title": "Tortilla de Patatas",
+      "ingredients": [
+        ["Vorwiegend festkochende Kartoffeln", "700", "g"],
+        ["Eier", "6", ""],
+        ["Große Zwiebeln", "2", ""],
+        ["Olivenöl", "500", "ml"]
+      ],
+      "instructions": [
+        "Die Kartoffeln schälen, halbieren und in ca. 3mm dicke Scheiben schneiden.",
+        "Zwiebeln dünn schneiden und im Olivenöl glasig kochen.",
+        "Anschließend die Kartoffelscheiben dazugeben und köcheln lassen. Die Kartoffeln sind fertig, wenn sie sich mit einem Kochlöffel zerdrücken lassen.",
+        "Alles abschöpfen und in eine Schüssel geben. Die Eier dazuschlagen und alles mit Salz und Pfeffer verrühren. Die Schüssel abdecken und 15 Minuten ruhen lassen.",
+        "Portionsweise in einer beschichteten Pfanne anbraten (wenden wie ein Rösti)."
+      ]
+    },
+    {
+      "title": "Shashuka mit Naan Brot",
+      "ingredients": {
+        "Shashuka": [
+          ["Tomatenpassata", "750", "ml"],
+          ["Gemüse", "", ""],
+          ["Kichererbsen", "400", "g"],
+          ["Eier", "3", ""],
+          ["Tomatenmark", "", ""]
+        ],
+        "Naan Brot": [
+          ["Glattes Weizenmehl", "260", "g"],
+          ["Backpulver", "2", "TL"],
+          ["Salz", "1", "TL"],
+          ["Naturjoghurt", "100", "g"],
+          ["Wasser", "100", "ml"]
+        ]
+      },
+      "instructions": {
+        "Shashuka": [
+          "Zwiebeln in Würfel schneiden und mit Öl und Tomaten anbraten.",
+          "In einer separaten Pfanne die Kichererbsen in Öl knusprig braten.",
+          "Restliches Gemüse zu den Zwiebeln geben und anbraten.",
+          "Die Tomatenpassata zum Gemüse geben und die Hitze reduzieren.",
+          "Eier in die Tomatensauce schlagen und köcheln lassen, bis die Eier fest sind."
+        ],
+        "Naan Brot": [
+          "Salz im Wasser lösen und alles zu einem Teig vermengen.",
+          "Teig in 6 gleich große Bällchen teilen.",
+          "Bällchen nacheinander dünn ausrollen und in einer Pfanne beidseitig anbraten.",
+          "Tipp: Brot mit Knoblauchöl bestreichen und Sesam bestreuen."
+        ]
+      }
+    },
+    {
+      "title": "Polentaschnitten mit Gemüseletscho",
+      "ingredients": {
+        "Polentaschnitten": [
+          ["Polenta", "120", "g"],
+          ["Gemüsebrühe", "500", "ml"],
+          ["Butter", "3", "EL"],
+          ["Salz", "", ""],
+          ["Pfeffer", "", ""]
+        ],
+        "Gemüseletscho": [
+          ["Gemüse (Zucchini, Zwiebeln, Paprika, Champignons, ...)", "", ""],
+          ["Tomatenpassata", "", ""],
+          ["Knoblauch", "", ""],
+          ["Rosmarin", "", ""]
+        ]
+      },
+      "instructions": {
+        "Polentaschnitten": [
+          "Gemüsebrühe in einem Topf zum Kochen bringen und Butter in kleine Würfel schneiden.",
+          "Polenta unter ständigem Rühren in die Suppe streuen und anschließend die Butterwürfel dazugeben.",
+          "Polenta ca. 1cm hoch in eine Form kippen und abkühlen lassen.",
+          "Die Polenta in gleich große Schnitten schneiden und in Butter beidseitig goldbraun braten."
+        ],
+        "Gemüseletscho": [
+          "Gemüse in einer Pfanne anbraten und mit Tomatenpassata aufgießen.",
+          "Mit Knoblauch, Rosmarin, Salz, Pfeffer, Chili, Paprika würzen und einköcheln lassen."
+        ]
+      }
+    },
+    {
+      "title": "Mac and Cheese",
+      "ingredients": [
+        ["Butter", "45", "g"],
+        ["Mehl", "3", "EL"],
+        ["Knoblauchzehen (Scheiben)", "10", ""],
+        ["Lorbeerblätter", "6", ""],
+        ["fettarme Milch", "1", "l"],
+        ["Hörnchennudeln", "600", "g"],
+        ["Tomaten", "8", ""],
+        ["Cheddar", "150", "g"],
+        ["Parmesan", "100", "g"],
+        ["Muskatnuss", "", ""],
+        ["Paprikapulver", "", ""]
+      ],
+      "instructions": [
+        "Nudeln in Salzwasser kochen.",
+        "Butter in einem großen Topf zergehen lassen, Mehl einstreuen und die Knoblauchscheiben dazugeben.",
+        "Lorbeerblätter zugeben, unter ständigem Rühren die Milch dazukippen, aufkochen und stehen lassen.",
+        "Nudeln unter die Sauce mischen.",
+        "Tomaten würfeln, salzen und pfeffern.",
+        "Tomaten und Käse unter die Nudeln mischen, bei Bedarf noch Wasser dazugeben.",
+        "In einer Auflaufform 30 Minuten bei 180°C backen.",
+        "Tipp: Brotbrösel in Olivenöl braten und dazu servieren."
+      ]
+    },
+    {
+      "title": "Vegetarische Burgerpatties",
+      "ingredients": [
+        ["Champignons", "500", "g"],
+        ["Knoblauchzehe", "1", ""],
+        ["Reis", "70", "ml"],
+        ["Parmesan", "", ""],
+        ["Ei", "1", ""],
+        ["Petersilie", "", ""],
+        ["Zwiebel", "1", ""],
+        ["Salz", "", ""],
+        ["Pfeffer", "", ""]
+      ],
+      "instructions": [
+        "Champignons und Zwiebeln in etwas Butter anbraten und regelmäßig Flüssigkeit abkippen.",
+        "Champignons abkühlen lassen und die Flüssigkeit ausdrücken.",
+        "Alle Zutaten zusammenmischen und Patties formen. Patties ruhen lassen und anschließend in etwas Öl anbraten."
+      ]
+    },
+    {
+      "title": "Erbsenrisotto",
+      "ingredients": [
+        ["Gemüsebrühe", "450", "ml"],
+        ["Risottoreis", "200", "g"],
+        ["Butter", "70", "g"],
+        ["Zwiebel", "1", ""],
+        ["Salz", "", ""],
+        ["Pfeffer", "", ""],
+        ["tiefgekühlte Erbsen", "150", "g"],
+        ["Parmesan", "3", "EL"],
+        ["Petersilie", "", ""]
+      ],
+      "instructions": [
+        "Zwiebeln hacken und im Topf mit 50g Butter andünsten.",
+        "Den Risottoreis dazugeben und ebenfalls glasig dünsten.",
+        "Unter ständigem Rühren die Suppe hinzugeben, ca. 20 Minuten Quellzeit.",
+        "Würzen und alle restlichen Zutaten unterrühren."
+      ]
+    },
+    {
+      "title": "Käspätzle",
+      "ingredients": [
+        ["Vorarlberger Spätzlemehl", "500", "g"],
+        ["Eier", "5", ""],
+        ["Vorarlberger Spätzlekäse", "500", "g"],
+        ["Salz", "", ""],
+        ["Pfeffer", "", ""],
+        ["Muskatnuss", "", ""],
+        ["Zwiebeln", "", ""]
+      ],
+      "instructions": [
+        "Wasser zum Kochen bringen.",
+        "Eier, Mehl, Salz, Pfeffer und Muskatnuss zu einem Teig vermengen und solange Wasser zugeben, bis der Teig eine matschige Konsistenz hat.",
+        "Mit einem Spätzlehobel den Teig portionsweise kochen und die fertigen Spätzle in eine Auflaufform abschöpfen.",
+        "Jede Schicht Spätzle mit einer Schicht Käse bedecken.",
+        "Alles anschließend im Ofen überbacken.",
+        "Für die Röstzwiebeln die Zwiebeln in Mehl wenden und portionsweise in viel Öl anbraten."
+      ]
+    },
+    {
+      "title": "Bester Pizzateig (24h Gehzeit)",
+      "ingredients": [
+        ["Weizenmehl Typ 700", "575", "g"],
+        ["Wasser", "390", "g"],
+        ["Salz", "12", "g"],
+        ["Frischhefe", "1", "g"],
+        ["Olivenöl", "25", "g"]
+      ],
+      "instructions": [
+        "Das Mehl in eine große Schüssel geben.",
+        "Wasser in einem Messbecher abwiegen und ca. 20ml in eine kleine Tasse kippen.",
+        "Das Salz im Messbecher mit Wasser lösen.",
+        "Die Hefe in der Tasse mit Wasser lösen.",
+        "Das Olivenöl und das Salzwasser zum Mehl dazugeben und ein paar Mal umrühren.",
+        "Nun das Hefewasser dazugeben und den Teig gut durchkneten, mindestens bis keine Mehlreste mehr übrig sind.",
+        "Teig abdecken und 24h ruhen lassen. (Alle 8h den Teig ziehen und in sich selbst falten)",
+        "Den Teig dritteln und mit der Hand (nicht mit einem Teigwalker) zu einer Pizza formen und auf ein Backpapier legen.",
+        "Ofen und Blech auf höchster Stufe Ober-/Unterhitze vorheizen.",
+        "Pizza nach Belieben belegen (Tipp: trockenen Mozzarella verwenden).",
+        "Jeweils eine Pizza im Ofen knusprig backen."
+      ],
+      "notes": "Die Gehzeit bezieht sich auf eine Temperatur von 18-20°C. Bei einer Temperatursteigerung von 5°C verkürzt sich die Geh-/Faltzeit um die Hälfte."
+    },
+    {
+      "title": "Wurzelbrot",
+      "ingredients": [
+        ["Weizenmehl Typ 700", "525", "g"],
+        ["Roggenvollkornmehl", "60", "g"],
+        ["Wasser", "400", "g"],
+        ["Salz", "15", "g"],
+        ["Frischhefe", "1", "g"]
+      ],
+      "instructions": [
+        "Das Mehl in eine große Schüssel geben.",
+        "Wasser in einem Messbecher abwiegen und ca. 20ml in eine kleine Tasse kippen.",
+        "Das Salz im Messbecher mit Wasser lösen.",
+        "Die Hefe in der Tasse mit Wasser lösen.",
+        "Nun das Hefewasser dazugeben und den Teig gut durchkneten, mindestens bis keine Mehlreste mehr übrig sind.",
+        "Teig abdecken und 24h ruhen lassen. (Alle 8h den Teig ziehen und in sich selbst falten)",
+        "Den Teig dritteln und die Teigwürste verdrehen und mit Backpapier auf ein Blech legen.",
+        "Ofen auf 250°C Ober-/Unterhitze vorheizen.",
+        "Wenn möglich Teiglinge mit einer Backform oder einem zweiten Blech abdecken und bei 230°C für 25 Minuten backen.",
+        "Nach 5 Minuten die Abdeckungen aus dem Ofen nehmen und in den letzten 2-3 Minuten auf Umluft schalten."
+      ]
+    },
+    {
+      "title": "Mayonnaise",
+      "ingredients": [
+        ["Ei", "1", ""],
+        ["Senf", "1.5", "TL"],
+        ["Zitronensaft", "", ""],
+        ["Apfelessig", "", ""],
+        ["Olivenöl", "Ein Schuss", ""],
+        ["Sonnenblumenöl", "", ""]
+      ],
+      "instructions": [
+        "Alles bis auf das Sonnenblumenöl vermischen.",
+        "Alles mit dem Pürierstab pürieren und immer wieder Sonnenblumenöl dazugeben bis die Konsistenz passt."
+      ]
+    },
+    {
+      "title": "Grießnoggerl",
+      "ingredients": [
+        ["Hartweizengrieß", "200", "g"],
+        ["Eier", "2", ""],
+        ["Butter", "80", "g"],
+        ["Salz", "", ""],
+        ["Pfeffer", "", ""],
+        ["Muskatnuss", "", ""]
+      ],
+      "instructions": [
+        "Eier mit geschmolzener Butter verquirlen.",
+        "Mit einem Schneebesen oder Handmixer den Grieß unterheben und die Masse 10 Minuten ruhen lassen.",
+        "Mit einem Löffel die Noggen formen und anschließend in einer Gemüsesuppe kochen."
+      ]
+    },
+    {
+      "title": "Kaspressknödel",
+      "ingredients": [
+        ["Eier", "2", ""],
+        ["Milch", "200", "ml"],
+        ["Brotwürfel", "200", "g"],
+        ["Emmentaler", "200", "g"],
+        ["Zwiebel", "1", ""],
+        ["Salz", "", ""],
+        ["Pfeffer", "", ""],
+        ["Schnittlauch", "", ""]
+      ],
+      "instructions": [
+        "Brot in Milch einweichen und auspressen.",
+        "Alles zu einem Teig vermengen.",
+        "Taler formen und in Butter anbraten, anschließend entweder als Beilage oder in einer Suppe servieren."
+      ]
+    },
+    {
+      "title": "American Pancakes",
+      "ingredients": [
+        ["Eier", "3", ""],
+        ["Buttermilch", "500", "ml"],
+        ["Weizenmehl", "250", "g"],
+        ["Natron", "1", "TL"],
+        ["Zucker", "1", "EL"],
+        ["Butter", "60", "g"]
+      ],
+      "instructions": [
+        "Eiweiß und Eigelb trennen und Eigelb in eine große Schüssel geben.",
+        "Eiweiß steif schlagen.",
+        "Eigelb schaumig schlagen und mit Buttermilch mischen.",
+        "Mehl, Natron, geschmolzene Butter und Zucker in den Teig mischen.",
+        "Eischnee unter den Teig heben.",
+        "Pancakes mit Butter in einer beschichteten Pfanne braten."
+      ]
+    },
+    {
+      "title": "Karottenkuchen",
+      "ingredients": [
+        "Teig",
+        ["Karotten", "375", "g"],
+        ["Mehl", "250", "g"],
+        ["Zucker", "150", "g"],
+        ["Zimtpulver", "1", "TL"],
+        ["neutrales Öl", "250", "ml"],
+        ["Eier", "4", ""],
+        ["gemahlene Mandeln", "200", "g"],
+        "Frosting",
+        ["Frischkäse", "300", "g"],
+        ["Puderzucker", "70", "g"],
+        ["Vanillezucker", "1 Packung", ""],
+        ["Zitronensaft", "", "nach Bedarf"]
+      ],
+      "instructions": [
+        "Für den Teig die Karotten raspeln und alle Zutaten vermischen.",
+        "Den Kuchenteig in eine Springform geben und bei 180°C Ober-/Unterhitze für 40-50 Minuten im Ofen backen.",
+        "Zutaten für den Frischkäse mit einem Stabmixer pürieren.",
+        "Den gebackenen Teig mit dem Frosting bestreichen."
+      ]
+    },
+    {
+      "title": "Zopf",
+      "ingredients": [
+        ["Mehl", "500", "g"],
+        ["Salz", "2", "TL"],
+        ["frische Hefe", "20", "g"],
+        ["Milch", "250", "ml"],
+        ["Zucker", "50", "g"],
+        ["Butter", "50", "g"],
+        ["Eigelb", "3", ""],
+        ["Rum", "1", "EL"],
+        ["Rosinen", "nach Bedarf", ""],
+        ["Ei zum Bestreichen", "", ""],
+        ["Mandelsplitter", "nach Bedarf", ""]
+      ],
+      "instructions": [
+        "Mehl mit Salz vermischen und die Hefe hineinbröckeln.",
+        "Milch mit Butter, Zucker und Rum erwärmen (nicht zu heiß).",
+        "Die Eigelb mit dem Schneebesen einrühren.",
+        "Die Milch-Butter-Mischung zum Mehl geben und zu einem glatten Teig verkneten.",
+        "Rosinen untermischen.",
+        "Teig ruhen lassen, bis er auf das doppelte Volumen aufgegangen ist.",
+        "Teig zu einem Zopf formen und mit verquirltem Ei bestreichen und mit Mandelsplittern bestreuen.",
+        "Zopf bei 180°C 35-40 Minuten backen."
+      ]
+    }
+  ]
+}

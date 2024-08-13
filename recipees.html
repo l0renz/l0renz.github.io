@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>l0renz.github.io</title>
+    <link rel="shortcut icon" href="favicon/favicon.ico">
+    <link rel="stylesheet" href="css/main.css">
+    <link rel="stylesheet" href="css/recipees.css">
+    <link rel="stylesheet" href="pico_css/pico.css">
+</head>
+<body>
+  <main class="container">
+  <div class="container">
+    <h1 class="h1">My Funky Recipees</h1>
+    <!-- <ul class="recipee-list">
+    </ul> -->
+    <div class="grid-container recipee-list">
+    </div>
+  </div>
+
+  <dialog id = "instructionDialog" close>
+    <article>
+      <header>
+        <button onclick="close_modal()" aria-label="Close" rel="prev"></button>
+        <p>
+          <img src="img/knife.svg" alt="Icon" style="vertical-align: middle; width: 40px; height: 40px;">
+          <strong class="modalTitle"></strong>
+        </p>
+      </header>
+      <h2>Ingredients</h2>
+      <table>
+        <tbody class="ingredientTable">
+          <tr>
+            <td>abc</td>
+            <td class="ingredient-entry">abc</td>
+          </tr>
+        </tbody>
+      </table>
+      <h2>Instructions</h2>
+      <ol class = "instructionList"></ol>
+    </article>
+  </dialog>
+  </main>
+  <script src="js/recipees.js" async></script>
+</body>
+</html>

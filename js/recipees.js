@@ -1,4 +1,5 @@
 const R = document.querySelector(".recipee-list");
+const URL = "https://raw.githubusercontent.com/l0renz/l0renz.github.io/main/assets/recipees/a.json"
 // TODO Recipees with more than one part, eg Shashuka are not rendered correctly
 
 function populate_modal(data, modal) {
@@ -69,6 +70,6 @@ function addPreviewGrid(data) {
 }
 
 document.addEventListener("DOMContentLoaded", async () => {
-  const data = await load_json("assets/recipees/a.json");
+  const data = await load_json("./assets/recipees/a.json");
   addPreviewGrid(data);
 });
